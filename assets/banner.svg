@@ -1,0 +1,16 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rizky Profile Banner">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#22c55e" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="#0b1220" />
+  <g>
+    <circle cx="160" cy="160" r="96" fill="url(#g)" opacity="0.25" />
+    <circle cx="160" cy="160" r="72" fill="url(#g)" opacity="0.35" />
+    <circle cx="160" cy="160" r="48" fill="url(#g)" opacity="0.5" />
+  </g>
+  <text x="220" y="140" fill="#e5e7eb" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="42" font-weight="700">Rizky Maulana</text>
+  <text x="220" y="190" fill="#93c5fd" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="20">Full-stack Web Developer · Laravel · React/Next.js · TypeScript · Tailwind</text>
+</svg>
